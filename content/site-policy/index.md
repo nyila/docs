@@ -1,0 +1,20 @@
+---
+title: Site policy documentation
+shortTitle: Site policy
+redirect_from:
+  - /categories/61/articles
+  - /categories/site-policy
+  - /github/site-policy
+versions:
+  fpt: '*'
+children:
+  - /github-terms
+  - /acceptable-use-policies
+  - /privacy-policies
+  - /other-site-policies
+  - /content-removal-policies
+  - /security-policies
+  - /github-company-policies
+  - /site-policy-deprecated
+---
+
